@@ -30,9 +30,9 @@ https://www.instagram.com/p/DSXw9y3EawV/
 ## My role
 I was the software lead which meant I was responsible for all the code that went into controlling the servos. The code is in this repository if you want to look through exactly what I did, but here's also a data structure and activity diagram to illustrate my work at a high level
 <p align="center">
-  <img src="Laser_Lock_Data_Structures.jpg" width="50%">
+  <img src="Laser_Lock_Data_Structures.jpeg" width="50%">
 </p>
 <p align="center">
-  <img src="Laser_Lock_Activity_Diagram.jpg" width="50%">
+  <img src="Laser_Lock_Activity_Diagram.jpeg" width="50%">
 </p>
 
