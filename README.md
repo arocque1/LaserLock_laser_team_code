@@ -15,10 +15,10 @@ My team had to design a system that could position a laser in two dimensions (ph
 
 To organize these parts, we modified a wooden box/chest we got on Amazon, where most of the circuitry was stored inside the chest, and the turret was mounted on top. Also not clearly shown is the laser emergency shutoff switch, where the switch itself is on the exterior side of the chest. You can still see the switch in the bottom left of the chest.
 <p align="center">
-  <img src="box_internals.jpeg" width="50%">
+  <img src="box_internals.jpg" width="50%">
 </p>
 <p align="center">
-  <img src="laser_holder.jpeg" width="50%">
+  <img src="laser_holder.jpg" width="50%">
 </p>
 Here's a video of the whole system working in action!
 
